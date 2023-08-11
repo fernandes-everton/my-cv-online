@@ -1,7 +1,7 @@
 ## Meu Currículo Online 
 _Meu currículo com algumas informações sobre minhas competências e experiências no mercado._
 
-![](sc-pag-cv.png)
+![](images/sc-pag-cv.png)
 
 ## Contato
 _Email:_ evertonmf@hotmail.com
