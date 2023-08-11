@@ -6,6 +6,6 @@ _Meu currículo com algumas informações sobre minhas competências e experiên
 ## Contato
 _Email:_ evertonmf@hotmail.com
 
-[Linkedin](https://www.linkedin.com/in/everton-fernandes-a755a4274/){target="_blank"}
+[LinkedIn](#https://www.linkedin.com/in/everton-fernandes-a755a4274/)
 
-[Curriculum Vitae](https://fernandes-everton.github.io){target="_blank"}
+[Curriculum Vitae](#https://fernandes-everton.github.io)
